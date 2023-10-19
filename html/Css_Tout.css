@@ -1,0 +1,296 @@
+body{
+    background-color: #c8f1f8;
+}
+
+header{
+	font-size: 20px;
+	background-color: #72a8c7;
+	box-shadow: 6px 6px 10px #767cb5;
+	width: 100%;
+	color: white;
+	height: 80px;
+
+}
+
+header img{
+	float: left;
+	border: 5px solid #240606;
+	width: 1cm;
+	margin-left: 3%;
+	margin-top: 15px;
+}
+
+header h1{
+	font-size: 30px;
+	float: right;
+	color: white;
+	margin-right: 10px;
+    letter-spacing: 5px;
+}
+
+header a{
+	color: white;
+	margin-left: 10%;
+	margin-top: 5px;
+}
+
+
+footer{
+    background-color: #72a8c7;
+	box-shadow: 6px 6px 10px #767cb5;
+	width: 100%;
+	color: #9d9999;
+	height: 40px;
+	font-size: 15px;
+	text-align: center;
+    padding-top: 5px;
+    letter-spacing: 5px;
+}
+
+
+#titre {
+    color:rgb(1, 18, 255);
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+
+    letter-spacing: 5px;
+    text-decoration: rgb(40, 145, 194) wavy underline;
+
+    text-transform: uppercase;
+
+    height: 100px;
+    border:35px dashed rgb(127, 11, 236); 
+    border-style: double;
+    box-shadow: 6px 6px 0px rgb(255, 5, 5);
+}   
+
+.somm2{
+    margin-left: 56%;
+    margin-top: -390px;
+    width: 100%;
+}
+
+.sommaire {
+	border: 1px dashed rgb(255,255,255);
+    box-shadow: 6px 6px 10px rgb(2, 23, 114);
+	background-color: rgb(200, 130, 233);
+	opacity: 0.9;
+	margin-top: 25px;
+	margin-left: 25px;
+	width: 85%;
+    height: 450px;
+	border-radius: 5px;
+	padding: 0px 25px 25px;
+	color: #8ae087;
+
+    text-align: 25%;
+	text-shadow: 2px 2px 4px #5e975c;
+    letter-spacing: 5px;
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+	
+}
+
+.sommaireT{
+    border: 1px dashed rgb(255,255,255);
+    box-shadow: 6px 6px 0px rgb(2, 23, 114);
+	background-color: rgb(112, 102, 206);
+	opacity: 0.9;
+	margin-top: 25px;
+	margin-left: 25%;
+	width: 50%;
+	border-radius: 5px;
+	padding: 0px 25px 25px;
+	color: #8ae087;
+
+	text-shadow: 2px 2px 4px #5c965a;
+    letter-spacing: 5px;
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+}
+
+
+.pointsomm{
+    color:rgb(132, 193, 218);
+    border: 8px solid rgb(46, 1, 1);
+    background-color: #b12548;
+    opacity: 0.9;
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 75%;
+    border-radius: 5px;
+    padding: 0px 50px 50px 50px;
+}
+
+h2 {
+    color:#8ae087;
+    text-align: center;
+    text-transform: underline;
+    text-decoration: underline dotted;
+    font-size: 25px;
+
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+}
+
+hr{
+    margin-top: 2%;
+    width:75%;
+    color:#339c87;
+}
+
+img{
+    border: 5px solid rgb(46, 1, 1);
+}
+
+h3 {
+    color:rgb(203, 239, 255);
+    text-align: 15%;
+    text-transform: underline;
+    text-decoration: underline;
+    font-size: 20px;
+
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+}
+
+
+.exemple{
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.button {
+    width: 80px;
+    max-width: 100px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 20px;
+    background: #0677ba;
+    border: #055d91 solid 1px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px #0677ba;
+    color: white;
+}
+
+h2 {
+    color:#8ae087;
+    text-align: center;
+    text-transform: underline;
+    text-decoration: underline dotted;
+    font-size: 25px;
+
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+}
+
+h3 {
+    color:rgb(203, 239, 255);
+    text-align: 15%;
+    text-transform: underline;
+    text-decoration: underline;
+    font-size: 20px;
+
+
+    font-family: 'CevicheOne-Regular', arial, verdana;
+    src: url('CevicheOne-Regular.otf') format('otf');
+}
+
+
+
+#petit {
+    font-size: 10px;
+}
+#grand {
+    font-size: 35px;
+}
+
+
+
+
+
+
+/* css */
+
+
+#id{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+/* html */
+
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#navy{
+    background-color: navy;
+}
+#teal{
+    background-color: teal;
+}
+#aqua{
+    background-color: aqua;
+}
+#silver{
+    background-color: silver;
+}
+#gray{
+    background-color: gray;
+}
+#yellow{
+    background-color: yellow;
+}
+#maroon{
+    background-color: maroon;
+}
+#black{
+    background-color: black;
+}
+#fuchsia{
+    background-color: fuchsia;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#lime{
+    background-color: lime;
+}
+#olive{
+    background-color: olive;
+}
+#purple{
+    background-color: purple;
+}
+
+
+td{
+    background-color: #c0c0ff;
+    color:black;
+}
+th{
+    background-color: silver;
+    color:black;
+}
+#Tcoul{
+    font-size: 1.2em;
+    color:black;
+    caption-side:bottom;
+}
